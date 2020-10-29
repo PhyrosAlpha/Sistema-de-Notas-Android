@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="disciplinas_list">
+        <item>Estrutura de dados</item>
+        <item>Programção Web</item>
+        <item>Programação POO</item>
+        <item>Técnicas de Programação</item>
+        <item>Banco de dados</item>
+        <item>Análise de Projetos</item>
+        <item>Matemática Aplicada</item>
+        <item>Desenvolvimento de algoritmos</item>
+        <item>Modelagem de dados</item>
+        <item>Empreendedorismo</item>
+        <item>Análise e Projetos de Sistemas</item>
+        <item>Tópicos Especiais</item>
+        <item>Gestão de Técnologia da Informação</item>
+        <item>Projeto Interdisciplinas III</item>
+        <item>Programção para Dispositivos Móveis</item>
+        <item>Qualidade de Software</item>
+        <item>Projeto Interdisciplinas I</item>
+        <item>Projeto Interdisciplinas II</item>
+        <item>Aplicações para a Internet</item>
+        <item>Engenharia de Requisitos</item>
+        <item>Fundamentos de Sistemas de Informação</item>
+        <item>Modelagem de Negócios</item>
+        <item>Projeto Interdisciplinar</item>
+        <item>Interface Humano-Computador</item>
+        <item>Lingua Portuguesa</item>
+        <item>Organização e Arquitetura de Computadores</item>
+        <item>Programação de Computadores</item>
+        <item>Sistemas Operacionais</item>
+    </string-array>
+
+    <string-array name="cursos_list">
+        <item>Análise e desenvolvimento de Sistemas</item>
+        <item>Ciência das Computação</item>
+        <item>Engenharia da Computação</item>
+        <item>Sistemas de Informação</item>
+    </string-array>
+</resources>
